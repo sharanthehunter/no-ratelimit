@@ -28,6 +28,7 @@ steps to reproduce :
 
 
 Solution -
+
 I Will Recommend You To Add A ReCaptcha & Sort Of Something Which Requires Manual Human Interaction To Proceed Like You Can Add Captcha Like 2+2=___ so that it cannot be brute-forced and you also can have a limit at the backend for a particular number up to 5 times a day user can request verify Email or Link something like that will prevent you from someone exploiting this vulnerability
   
 POC- Attached Below
@@ -40,4 +41,5 @@ POC- Attached Below
 
 
 Impact:
+
 If You Are Using Any Email Service Software API Or Some Tool Which Costs You For Your Email This Type Of Attack Can Result from You In Financial Lose And It Can Also Slow Down Your Services It Can Take Bulk Of Storage In Sent Mail Although If Users Are Affected By This Vulnerability They Can Stop Using Your Services Which Can Lead To Business Risk.
